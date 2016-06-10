@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repo" name="Stream On Demand - iSoD crew" version="5.2.7" provider-name="iSod">
+	<extension point="xbmc.addon.repository" name="Stream On Demand - iSoD Crew Addon Repository">
+		<info compressed="false">http://github.com/Zanzibar82/repo/addons.xml</info>
+		<datadir zip="true">http://github.com/Zanzibar82/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Stream On Demand - iSoD crew</summary>
+		<description>Download and install Stream On Demand</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
